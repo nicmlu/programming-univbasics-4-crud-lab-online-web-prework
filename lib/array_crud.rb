@@ -32,7 +32,6 @@ end
 
 def retrieve_element_from_index(array, index_number)
   learning = ["wow", "I", "am", "really", "learning", "arrays!"]
-  learning[3]
   p learning[3]
 end
 
